@@ -10,7 +10,8 @@ namespace ShellSortGeneric
     {
         public static void Main(string[] args)
         {
-
+             
+            //create int array
             int[] intArray = testInt(new int[] { 5, 1, 20, 8, 14, 10, 9, 13, 6, 11, 15, 18, 17, 9, 7, 12 });
             foreach (int intIndex in intArray)
             {
@@ -20,6 +21,7 @@ namespace ShellSortGeneric
             Console.WriteLine();
 
 
+            //create string array
             string[] strArray = testStr(new string[] { "Beautiful!", "It all worked:)", "Amazing!", "123"});
 
             foreach (string strIndex in strArray)
