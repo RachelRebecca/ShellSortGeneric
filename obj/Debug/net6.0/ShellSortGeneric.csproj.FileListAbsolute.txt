@@ -1,0 +1,15 @@
+C:\Users\rache\source\repos\ShellSortGeneric\obj\Debug\net6.0\ShellSortGeneric.csproj.AssemblyReference.cache
+C:\Users\rache\source\repos\ShellSortGeneric\obj\Debug\net6.0\ShellSortGeneric.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rache\source\repos\ShellSortGeneric\obj\Debug\net6.0\ShellSortGeneric.AssemblyInfoInputs.cache
+C:\Users\rache\source\repos\ShellSortGeneric\obj\Debug\net6.0\ShellSortGeneric.AssemblyInfo.cs
+C:\Users\rache\source\repos\ShellSortGeneric\obj\Debug\net6.0\ShellSortGeneric.csproj.CoreCompileInputs.cache
+C:\Users\rache\source\repos\ShellSortGeneric\bin\Debug\net6.0\ShellSortGeneric.exe
+C:\Users\rache\source\repos\ShellSortGeneric\bin\Debug\net6.0\ShellSortGeneric.deps.json
+C:\Users\rache\source\repos\ShellSortGeneric\bin\Debug\net6.0\ShellSortGeneric.runtimeconfig.json
+C:\Users\rache\source\repos\ShellSortGeneric\bin\Debug\net6.0\ShellSortGeneric.dll
+C:\Users\rache\source\repos\ShellSortGeneric\bin\Debug\net6.0\ref\ShellSortGeneric.dll
+C:\Users\rache\source\repos\ShellSortGeneric\bin\Debug\net6.0\ShellSortGeneric.pdb
+C:\Users\rache\source\repos\ShellSortGeneric\obj\Debug\net6.0\ShellSortGeneric.dll
+C:\Users\rache\source\repos\ShellSortGeneric\obj\Debug\net6.0\ref\ShellSortGeneric.dll
+C:\Users\rache\source\repos\ShellSortGeneric\obj\Debug\net6.0\ShellSortGeneric.pdb
+C:\Users\rache\source\repos\ShellSortGeneric\obj\Debug\net6.0\ShellSortGeneric.genruntimeconfig.cache
